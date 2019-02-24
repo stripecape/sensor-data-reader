@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DataView.qml</file>
+        <file>DataViewHandler.js</file>
+        <file>RoundButton.qml</file>
+        <file>Chart.qml</file>
+        <file>CurrentValue.qml</file>
+        <file>DataWindow.qml</file>
+        <file>History.qml</file>
+    </qresource>
+</RCC>
